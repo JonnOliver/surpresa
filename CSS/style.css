@@ -1,0 +1,127 @@
+﻿body {
+     background-image:url(../images/fundo.jpg);
+     background-attachment:fixed;
+}
+
+#master {
+        width:1322px;
+        height:2360px;
+        border:2px solid #000;
+}
+
+#header {
+        width:1300px;
+        height:136px;
+        border:0px solid #000;
+        margin:0px 10px 20px 10px;
+        background-image:url(../images/coração.gif);
+        background-size:163px;
+}
+
+#music {
+       width:300px;
+       height:60px;
+       border:0px solid #000;
+       margin:0px 10px 0px 1008px;
+}
+
+#nav {
+     width:450px;
+     height:610px;
+     border:2px solid #000;
+     margin:0px 10px 20px 10px;
+     text-align:center;
+     float:left;
+} 
+
+#foto {
+      width:300px;
+      height:600px;
+      border:0px solid #000;
+      float:left;
+
+
+}
+
+#cima {
+      margin:0px 0px 6px 0px;  
+      border:2px solid #000;
+}
+
+#baixo {
+       margin:0px 0px 20px 0px;  
+       border:2px solid #000;
+}
+
+#nav2 {
+      width:524px;
+      height:610px;
+      border:2px solid #000;
+      margin:0px 10px 20px 10px;
+      text-align:center;
+      float:left;
+}
+
+
+#direita {
+       margin:0px 10px 10px 10px;  
+       border:2px solid #000;
+}
+
+#fotos3 {
+      width:300px;
+      height:600px;
+      border:0px solid #000;
+      float:left;
+}
+
+#left {
+       margin:0px 10px 186px 10px;  
+       border:2px solid #000; 
+}
+    
+#esquerda {
+       margin:0px 10px 20px 10px;  
+       border:2px solid #000; 
+}
+
+#main {
+      width:650px;
+      height:790px;
+      border:2px solid #000;
+      margin:0px 10px 20px 30px;
+      text-align:center;
+      float:left;
+}
+
+
+#link{
+      width:100px;
+      height:100px;
+      border:0px solid #000;
+      margin:0px 10px 10px 10px;
+      float:right;
+
+
+}
+
+#click {
+       text-align:right;
+}
+
+#footer {
+
+  width:1294px;
+  heigth:144px;
+  background-color:#675c47;
+  text-align:       center;
+  padding:          2px;
+  margin: 30px 10px 10px 10px;
+  font-size:        90%;
+  border:2px solid #000;
+
+  float:left;
+  
+
+}
+
